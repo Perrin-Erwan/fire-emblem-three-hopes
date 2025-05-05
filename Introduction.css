@@ -1,0 +1,47 @@
+main{
+    background-color: rgba(255, 0, 0, 0.301);
+    height: min-content;
+    width: 70%;
+    font-size: x-large;
+    color: #FFFFFF;
+}
+
+body{
+    background-image:url(Combat.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+aside{
+    background-color: rgba(0, 0, 255, 0.367);
+    width: 70%;
+    font-size: large;
+}
+
+header{
+    background-color: rgba(255, 255, 0, 0.232);
+    background: linear-gradient(90deg,#FF0000,#FFFF00,#0000FF);
+    font-size: 100px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+#autres{
+    font-size: large;
+}
+
+.bonjour{
+    padding-left: 92%;
+}
+
+footer{
+    background-color: #ffff004b;
+    font-size: x-large;
+    height: 200px;
+}
+
+a:hover{
+    color: #8B0000;
+}

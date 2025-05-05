@@ -1,0 +1,29 @@
+body{
+    background-image:url(../Faerghuslion.PNG/Felix.png);
+    background-attachment: fixed;
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #0000FF;
+}
+
+a{
+    color:white;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color: #FFFF00 ;
+}
+
+a:hover{
+    color: #FF0000 ;
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.344);
+    color: #FFFF00;
+    font-size: x-large;
+    margin-top: 5%;
+}

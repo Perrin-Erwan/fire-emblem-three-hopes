@@ -1,0 +1,29 @@
+body{
+    background-image:url(Logo.png);
+    background-attachment: fixed;
+    background-size: 30%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #0000FF;
+}
+
+a{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color: #ADD8E6 ;
+}
+
+a:hover{
+    color: #000000 ;
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.344);
+    color:#FFD700;
+    font-size: x-large;
+    margin-top: 5%;
+}

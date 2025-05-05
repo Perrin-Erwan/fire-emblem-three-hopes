@@ -1,0 +1,44 @@
+body{
+    background-image: url(../AdrestiaEagle.PNG/Jeritza.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #8B0000;
+}
+
+a{
+    color:red;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color: red ;
+    font-size: 40px;
+}
+
+a:hover{
+    color:  #87CEEB;
+}
+
+mark{
+    color: red;
+    background-color: black;
+    font-size: large;
+}
+
+div{
+    background-color: rgba(255, 0, 0, 0.263);
+    color: #000000;
+    font-size: large;
+    border-radius: 50px;
+    display: flex;
+    align-items: flex-start;
+    position:relative;
+    padding-top: 5px;
+    left: 400px;
+    padding-left: 30px ;
+    height: 500px;
+    width: 800px;
+}

@@ -1,0 +1,35 @@
+body{
+    background-image: url(../goldendeer.PNG/Hilda_waifu2x_photo_noise1_scale.png);
+    background-attachment: fixed;
+    background-size: 750px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+a{
+    color:white;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color: yellow ;
+}
+
+a:hover{
+    color: yellow ;
+}
+
+mark{
+    color: red;
+    background-color: black;
+    font-size: large;
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.344);
+    color: yellow;
+    font-size: x-large;
+    margin-top: 5%;
+}
+

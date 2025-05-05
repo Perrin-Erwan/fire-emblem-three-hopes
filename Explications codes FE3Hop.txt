@@ -1,0 +1,121 @@
+D'abord l'organisation des fichiers et des dossiers :
+
+Présentation.html
+L'histoire des emblèmes.html
+Les maisons.html
+Les essences.html
+Capacités armes.html
+les emblèmes.css
+les essences.css
+
+sont dans le dossier de base (fire emblem three hopes).
+
+Dans le dossier Aigle d'Adrestia :
+
+AdrestiaEagle.CSS
+Tout les fichiers .css des personnages appartenant à l'Aigle d'Adrestia.
+
+AdrestiaEagle.HTML
+Tout les fichiers .html des personnages appartenant à l'Aigle d'Adrestia.
+
+AdrestiaEagle.PNG 
+Tout les photos .png et .ico des personnages appartenant à l'Aigle d'Adrestia.
+
+les aigles de jais.css
+les aigles de jais.html
+Logoaigledejais.png
+
+sont dans ce dossier.
+
+Dans le dossier Cerf de Leicester :
+
+Idem mais pour les Cerfs d'or.
+
+Dans le dossier Chevalier de Seiros :
+
+Idem mais pour les Chevaliers de Seiros.
+
+Dans le dossier Lion de Faerghus :
+
+Idem mais pour les lions de Faerghus.
+
+dans le dossier Loups cendrés :
+
+Idem mais pour les Loups cendrés.
+
+Mercenaires et esprit :
+
+Idem mais les Mercenaires et esprit.
+
+Les fichiers .html se ressemble dans le code en tout cas sauf pour les premiers :
+
+Présentation.html
+ce fichier est l'introduction de fire emblem three hopes
+
+j'ai utilisais comme balise html <a>, <p>, <h1>.
+
+L'histoire des emblèmes.html 
+Ce fichier présente l'histoire ancêstrale de ce jeu.
+
+j'ai utilisais les balises : 
+<header>, <form>, <select>, 
+<option>, <main>, <h1>,
+<p>, <aside>, <ul>, 
+<li>, <h2>, <footer>,
+<a>
+
+Dans le fichier les maisons.html
+Ce fichier présente les différentes familles nobles des trois continents.
+
+Il y a des balises <h1>, <br>, <ul>, <li>, <a>
+
+dans le fichier Capacités armes.html
+Ce fichier présente toutes les capacités de jeu.
+
+Il y a des balises <h1>, <h2>, <h3>, <h4>, <p>.
+
+Les fichiers Prénom 2ème Prénom Nom de famille.html
+Ces fichiers présente un personnage de la même façon que les autres.
+
+Ces balises sont <h1>, <p>, <br>, <ul>, <li>.
+
+les emblèmes.css est relié par un <link href=""> le fichier l'histoire des emblèmes
+
+j'ai mis du style sur main{} 
+background-color : rgba (255, 0, 0, 0.301)
+height : min-content 
+width :70%
+font-size : large;
+
+body{}
+
+background-images :url(../emblèmes.png)
+background-repeat : no-repeat;
+background-attachment : fixed
+background-position : center
+background-size : 65%
+
+aside{} 
+background-color : rgba(0, 0, 255, 0.367)
+width :70%
+font-size :large
+
+header{}
+    background-color: rgba(255, 255, 0, 0.232);
+    background: linear-gradient(90deg,#FF0000,#FFFF00,#0000FF);
+    font-size: 100px;
+    text-align: center;
+    padding-bottom: 50px;
+#autres{} 
+
+font-size: large;
+
+.bonjour{} 
+
+padding-left: 80%;
+
+footer{}
+
+    background-color: #ffff004b;
+    font-size: x-large;
+    height: 200px;

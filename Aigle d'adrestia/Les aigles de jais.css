@@ -1,0 +1,28 @@
+body{
+    background-image:url(Logoaigledejais.png) ;
+    background-attachment: fixed;
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #FF0000;
+}
+
+a{
+    color:white;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color: red ;
+}
+
+a:hover{
+    color: red ;
+}
+
+mark{
+    color: red;
+    background-color: black;
+    font-size: large;
+}

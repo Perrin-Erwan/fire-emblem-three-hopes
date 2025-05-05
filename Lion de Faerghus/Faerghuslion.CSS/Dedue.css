@@ -1,0 +1,28 @@
+body{
+    background-image:url(../Faerghuslion.PNG/Dedue.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+a{
+    color:white;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color: #FF0000 ;
+}
+
+a:hover{
+    color: #FF0000 ;
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.344);
+    color: #FF0000;
+    font-size: x-large;
+    margin-top: 5%;
+}

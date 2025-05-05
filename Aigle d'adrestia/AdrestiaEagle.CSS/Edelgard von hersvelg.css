@@ -1,0 +1,38 @@
+body{
+    background-image:url(../AdrestiaEagle.PNG/Edelgard.png) ;
+    background-attachment: fixed;
+    background-size: 30%s;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #FF0000;
+}
+
+a{
+    color:white;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color: red ;
+}
+
+a:hover{
+    color: red ;
+}
+
+mark{
+    color: red;
+    background-color: black;
+    font-size: large;
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.344);
+    color: #ffffff;
+    font-size: large;
+}
+
+.Labraunda{
+    margin-left: 120px; 
+}

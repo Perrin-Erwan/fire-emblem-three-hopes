@@ -1,0 +1,29 @@
+body{
+    background-image:url(../Seirosknights.PNG/Manuela.png);
+    background-attachment: fixed;
+    background-size: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #C0C0C0;
+}
+
+a{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color: #ADD8E6 ;
+}
+
+a:hover{
+    color: #ADD8E6 ;
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.344);
+    color:#ADD8E6;
+    font-size: x-large;
+    margin-top: 5%;
+}

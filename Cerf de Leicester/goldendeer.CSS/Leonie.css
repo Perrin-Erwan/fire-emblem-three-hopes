@@ -1,0 +1,29 @@
+body{
+    background-image:url(../goldendeer.PNG/Leonie_waifu2x_photo_noise1_scale.png);
+    background-attachment: fixed;
+    background-size: 550px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+a{
+    color:white;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color:rgb(135,206,235) ;
+}
+
+a:hover{
+    color: yellow ;
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.344);
+    color: yellow;
+    font-size: x-large;
+    margin-top: 5%;
+}
+

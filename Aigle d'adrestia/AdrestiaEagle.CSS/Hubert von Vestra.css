@@ -1,0 +1,40 @@
+body{
+    background-image:url(../AdrestiaEagle.PNG/Hubert.png) ;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+a{
+    color:white;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color: black ;
+}
+
+a:hover{
+    color: black ;
+}
+
+div{
+    background-color: rgba(255, 0, 0, 0.505);
+    color: black;
+    font-size: large;
+    border-radius: 50px;
+    display: flex;
+    align-items: flex-start;
+    position:relative;
+    padding-top: 5px;
+    left: 400px;
+    padding-left: 30px ;
+    height: 400px;
+    width: 800px;
+}
+
+.Labraunda{
+    margin-left: 120px; 
+}

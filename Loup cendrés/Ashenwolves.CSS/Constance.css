@@ -1,0 +1,29 @@
+body{
+    background-image:url(../Ashenwolves.PNG/Constance.png);
+    background-attachment: fixed;
+    background-size: 40%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #706b69;
+}
+
+a{
+    color: #FFFFFF;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    color: #FFD700 ;
+}
+
+a:hover{
+    color: #ffD700 ;
+}
+
+div{
+    background-color: rgba(0, 0, 0, 0.344);
+    color:#FFD700;
+    font-size: x-large;
+    margin-top: 5%;
+}
