@@ -1,5 +1,5 @@
 body {
-    background-image: url('image1.jpg'), url('image2.jpg');
+    background-image: url('../Seirosknights.PNG/rhea.png'), url('../Seirosknights.PNG/seiros.png');
     background-position: left top, right bottom;
     background-size: 50% auto, 50% auto;
     background-repeat: no-repeat, no-repeat;
