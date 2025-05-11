@@ -1,6 +1,6 @@
 body {
     background-image: url('../Seirosknights.PNG/rhea.png'), url('../Seirosknights.PNG/seiros.png');
-    background-position: left top, right bottom;
+    background-position: left, right;
     background-size: 50% auto, 50% auto;
     background-repeat: no-repeat, no-repeat;
     background-color: #706b69;
