@@ -1,9 +1,9 @@
 body{
-    background-image:url(../Seirosknights.PNG/Rhéa.png);
-    background-attachment: fixed;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background-image:url(../Seirosknights.PNG/seiros.png),url(../Seirosknights.PNG/rhea.png);
+    background-attachment: fixed, fixed;
+    background-size: cover, cover;
+    background-position: center, center;
+    background-repeat: no-repeat, no-repeat;
     background-color: #706b69;
 }
 
